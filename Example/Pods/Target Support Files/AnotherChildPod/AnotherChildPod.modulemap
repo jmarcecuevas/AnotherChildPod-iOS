@@ -1,0 +1,6 @@
+framework module AnotherChildPod {
+  umbrella header "AnotherChildPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

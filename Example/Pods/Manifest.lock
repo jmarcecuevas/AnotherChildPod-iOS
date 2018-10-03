@@ -1,0 +1,16 @@
+PODS:
+  - AnotherChildPod (0.1.0)
+
+DEPENDENCIES:
+  - AnotherChildPod (from `../`)
+
+EXTERNAL SOURCES:
+  AnotherChildPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnotherChildPod: b58216716471aa087b4bc7c4cc78d1fd08fa566e
+
+PODFILE CHECKSUM: fae96f1b46fd95c8385a2a4736307ff2a2b5d469
+
+COCOAPODS: 1.5.3
