@@ -2,7 +2,6 @@ use_frameworks!
 source 'https://github.com/marceCuevas16/Specs.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
-
 target 'AnotherChildPod_Example' do
   pod 'AnotherChildPod', :path => '../'
 

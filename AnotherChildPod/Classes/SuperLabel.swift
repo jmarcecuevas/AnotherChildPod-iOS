@@ -6,7 +6,10 @@
 //
 
 import Foundation
+import CommonPod
 
-class SuperLabel{
+class SuperLabel : CustomLabel{
+    
+    
     
 }

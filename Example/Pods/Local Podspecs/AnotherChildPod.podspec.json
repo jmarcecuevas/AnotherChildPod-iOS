@@ -23,6 +23,9 @@
   "dependencies": {
     "CommonPod": [
 
+    ],
+    "Alamofire": [
+      "~> 4.7"
     ]
   }
 }
