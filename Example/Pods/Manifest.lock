@@ -1,5 +1,5 @@
 PODS:
-  - AnotherChildPod (1.0.0):
+  - AnotherChildPod (1.0.2):
     - CommonPod
   - CommonPod (1.0.4)
 
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AnotherChildPod: a031d41a4c057407fdc6b2fb19157b4e2b5cc69e
+  AnotherChildPod: ab5b9e49dfeb074fcd692ff64ae74264f7b8db72
   CommonPod: f01c0e3e0d9c6e593f1ee0106a2c5897d8e42dfc
 
 PODFILE CHECKSUM: 41e870ca30dae85864fb6146682976b12c42b0f0
