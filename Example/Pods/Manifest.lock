@@ -1,16 +1,23 @@
 PODS:
-  - AnotherChildPod (0.1.0)
+  - AnotherChildPod (1.0.0):
+    - CommonPod
+  - CommonPod (1.0.4)
 
 DEPENDENCIES:
   - AnotherChildPod (from `../`)
+
+SPEC REPOS:
+  https://github.com/marceCuevas16/Specs.git:
+    - CommonPod
 
 EXTERNAL SOURCES:
   AnotherChildPod:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AnotherChildPod: b58216716471aa087b4bc7c4cc78d1fd08fa566e
+  AnotherChildPod: a031d41a4c057407fdc6b2fb19157b4e2b5cc69e
+  CommonPod: f01c0e3e0d9c6e593f1ee0106a2c5897d8e42dfc
 
-PODFILE CHECKSUM: fae96f1b46fd95c8385a2a4736307ff2a2b5d469
+PODFILE CHECKSUM: 41e870ca30dae85864fb6146682976b12c42b0f0
 
 COCOAPODS: 1.5.3

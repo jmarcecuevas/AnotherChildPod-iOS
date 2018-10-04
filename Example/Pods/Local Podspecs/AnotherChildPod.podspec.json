@@ -1,6 +1,6 @@
 {
   "name": "AnotherChildPod",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A short description of AnotherChildPod.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/marceCuevas16/AnotherChildPod",
@@ -13,10 +13,16 @@
   },
   "source": {
     "git": "https://github.com/marceCuevas16/AnotherChildPod.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "AnotherChildPod/Classes/**/*"
+  "source_files": "AnotherChildPod/Classes/**/*",
+  "swift_version": "4.1",
+  "dependencies": {
+    "CommonPod": [
+
+    ]
+  }
 }
